@@ -4,9 +4,11 @@
 
 This repository hosts the files backing up the data and experimental results described in our paper A Branch-and-Price-and-Cut Algorithm for the Bin Packing Problem with Fragile Objects referenced above. The paper is now under revision. A link to it will be provided as soon as possible.
 
+If you have any questions, please feel free to reach out to **[villagerwei@gdut.edu.cn](mailto:villagerwei@gdut.edu.cn)** or **[wskh0929@gmail.com](mailto:wskh0929@gmail.com)**
+
 ## Instances
 
-The BPPFI files that describe the instances are found in the `instances` folder. The instances in this folder are classic benchmark instances created by [Clautiaux et al (2014)](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
+The BPPFI files that describe the instances are found in the `instances` folder. The instances in this folder are classic benchmark instances created by [**Clautiaux et al (2014)**](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
 
 ## Results
 
