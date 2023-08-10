@@ -8,14 +8,14 @@ If you have any questions, please feel free to reach out to **[villagerwei@gdut.
 
 ## Instances
 
-The BPPFI files that describe the instances are found in the `instances` folder. The instances in this folder are classic benchmark instances created by [**Clautiaux et al (2014)**](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
+The BPPFI files that describe the instances are found in the **`instances`** folder. The instances in this folder are classic benchmark instances created by [**Clautiaux et al (2014)**](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
 
 ## Results
 
-The results CSV and OUT files are found inside the `results` folder. In ``results``, you will find:
+The results CSV and OUT files are found inside the **`results`** folder. In **``results``**, you will find:
 
-- A folder called ``out`` contains the detailed packing patterns for all instances.
-- A CSV file named ``results(19-011)`` containing the calculated statistics for all instances. The meaning of each column is as follows:
+- A folder called **``out``** contains the detailed packing patterns for all instances.
+- A CSV file named **``results(19-011)``** containing the calculated statistics for all instances. The meaning of each column is as follows:
   - **Name:** the name of the instance.
   - **Class:** the class of the instance.
   - **N:** the number of items in the instance.
