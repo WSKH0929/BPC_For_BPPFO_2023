@@ -14,8 +14,8 @@ The BPPFI files that describe the instances are found in the **`instances`** fol
 
 The results CSV and OUT files are found inside the **`results`** folder. In **``results``**, you will find:
 
-- A folder called **``out``** contains the detailed packing patterns for all instances.
-- A CSV file named **``results(19-011)``** containing the calculated statistics for all instances. The meaning of each column is as follows:
+- The folder named **``out``** contains detailed packing patterns for all instances.
+- The CSV file named **``results(19-011)``** contains calculated statistics for all instances. The meaning of each column is as follows:
   - **Name:** the name of the instance.
   - **Class:** the class of the instance.
   - **|N|:** the number of items in the instance.
