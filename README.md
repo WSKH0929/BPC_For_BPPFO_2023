@@ -18,7 +18,7 @@ The results CSV and OUT files are found inside the **`results`** folder. In **``
 - A CSV file named **``results(19-011)``** containing the calculated statistics for all instances. The meaning of each column is as follows:
   - **Name:** the name of the instance.
   - **Class:** the class of the instance.
-  - **N:** the number of items in the instance.
+  - **|N|:** the number of items in the instance.
   - **#Node:** the number of nodes explored in the BPC algorithm.
   - **#Node-P:** the number of nodes explored by the primal heuristic in the BPC algorithm.
   - **#Col:** the number of columns of the root node in the BPC algorithm.
