@@ -16,16 +16,16 @@ The results CSV and OUT files are found inside the **`results`** folder. In **``
 
 - The folder named **``out``** contains detailed packing patterns for all instances.
 - The CSV file named **``results(19-011)``** contains calculated statistics for all instances. The meaning of each column is as follows:
-  - **Name:** the name of the instance.
-  - **Class:** the class of the instance.
-  - **|N|:** the number of items in the instance.
-  - **#Node:** the number of nodes explored in the BPC algorithm.
-  - **#Node-P:** the number of nodes explored by the primal heuristic in the BPC algorithm.
-  - **#Col:** the number of columns of the root node in the BPC algorithm.
-  - **#PriceCnt:** the number of times the pricing subproblem is solved throughout the run of the BPC algorithm.
-  - **LB0:** the initial lower bound $L_0$ for the BPC algorithm.
-  - **LB:** the lower bound provided by the column generation procedure in the root node.
-  - **UB0:** the initial upper bound computed using the greedy heuristic.
-  - **UB:** the best upper bound found by the BPC algorithm.
-  - **Opt:** it signifies whether the best upper bound found by the BPC algorithm is the optimal upper bound or not.
+  - **Name:** the name of the instance,
+  - **Class:** the class of the instance,
+  - **|N|:** the number of items in the instance,
+  - **#Node:** the number of nodes explored in the BPC algorithm,
+  - **#Node-P:** the number of nodes explored by the primal heuristic in the BPC algorithm,
+  - **#Col:** the number of columns of the root node in the BPC algorithm,
+  - **#PriceCnt:** the number of times the pricing subproblem is solved throughout the run of the BPC algorithm,
+  - **LB0:** the initial lower bound $L_0$ for the BPC algorithm,
+  - **LB:** the lower bound provided by the column generation procedure in the root node,
+  - **UB0:** the initial upper bound computed using the greedy heuristic,
+  - **UB:** the best upper bound found by the BPC algorithm,
+  - **Opt:** it signifies whether the best upper bound found by the BPC algorithm is the optimal upper bound or not,
   - **Time:** the CPU seconds used to run the BPC algorithm.
