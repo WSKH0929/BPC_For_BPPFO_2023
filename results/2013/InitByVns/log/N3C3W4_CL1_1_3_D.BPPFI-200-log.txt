@@ -1,8 +1,0 @@
-====================================== 2024-05-24 03:41:24 N3C3W4_CL1_1_3_D.BPPFI-200 =====================================
------------------------ Start the branch-and-price algorithm -----------------------
-LB0: 45 , time cost: 5 ms
-XFitUpperBoundSolver: 47
-KnapsackBasedUpperBoundSolver: 47
-CliqueBasedUpperBoundSolver: 47
-MergingUpperBoundSolver: 54
-UB0: 47 , time cost: 150001 ms
