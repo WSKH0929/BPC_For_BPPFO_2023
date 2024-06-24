@@ -1,0 +1,25 @@
+====================================== 2024-05-16 10:10:58 N2C2W2_CL1_1_5_D.BPPFI-100 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 18 , time cost: 4 ms
+XFitUpperBoundSolver: 18
+UB0: 18 , time cost: 3 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=201, minFragile=202, C=0, itemIndexList=[0, 1, 2, 3, 29])
+Bin(obj=0, totalW=208, minFragile=208, C=0, itemIndexList=[4, 5, 6, 11])
+Bin(obj=0, totalW=219, minFragile=222, C=0, itemIndexList=[7, 8, 12, 27])
+Bin(obj=0, totalW=227, minFragile=237, C=0, itemIndexList=[9, 10, 13])
+Bin(obj=0, totalW=242, minFragile=243, C=0, itemIndexList=[14, 15, 16, 17, 66])
+Bin(obj=0, totalW=258, minFragile=258, C=0, itemIndexList=[18, 19, 20, 21, 78])
+Bin(obj=0, totalW=263, minFragile=271, C=0, itemIndexList=[22, 23, 24, 26, 30])
+Bin(obj=0, totalW=272, minFragile=281, C=0, itemIndexList=[25, 28, 31])
+Bin(obj=0, totalW=299, minFragile=303, C=0, itemIndexList=[32, 33, 34, 36, 37, 44])
+Bin(obj=0, totalW=310, minFragile=315, C=0, itemIndexList=[35, 38, 39, 40, 43])
+Bin(obj=0, totalW=338, minFragile=349, C=0, itemIndexList=[41, 42, 45, 46])
+Bin(obj=0, totalW=359, minFragile=361, C=0, itemIndexList=[47, 48, 49, 50, 51, 52])
+Bin(obj=0, totalW=388, minFragile=391, C=0, itemIndexList=[53, 54, 55, 56, 57, 58])
+Bin(obj=0, totalW=412, minFragile=417, C=0, itemIndexList=[59, 60, 61, 62, 63, 65, 71])
+Bin(obj=0, totalW=438, minFragile=454, C=0, itemIndexList=[64, 67, 68, 69, 70, 73, 75])
+Bin(obj=0, totalW=478, minFragile=478, C=0, itemIndexList=[72, 74, 76, 77, 79, 80, 81, 82])
+Bin(obj=0, totalW=528, minFragile=542, C=0, itemIndexList=[83, 84, 85, 86, 87, 88, 89, 90, 91, 93, 99])
+Bin(obj=0, totalW=458, minFragile=577, C=0, itemIndexList=[92, 94, 95, 96, 97, 98])
+BpSolution{isOpt=true, gap=0.0, LB0=18, LB=18, UB0=18, UB=18, rootColCnt=0, totalColCnt=0, exploredNodeCnt=0, rmpCnt=0, pricingCnt=0, lb0Time=4, ub0Time=3, rmpTime=0, pricingTime=0, totalTime=8}

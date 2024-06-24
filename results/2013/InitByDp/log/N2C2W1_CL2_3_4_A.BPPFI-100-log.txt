@@ -1,0 +1,24 @@
+====================================== 2024-05-09 12:06:19 N2C2W1_CL2_3_4_A.BPPFI-100 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 18 , time cost: 5 ms
+UB0: 18 , time cost: 11 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=54, minFragile=54, C=0, itemIndexList=[0, 1, 2, 3, 4, 13, 50])
+Bin(obj=0, totalW=109, minFragile=111, C=0, itemIndexList=[5, 6, 7])
+Bin(obj=0, totalW=148, minFragile=148, C=0, itemIndexList=[8, 9, 10, 11, 15, 18, 36])
+Bin(obj=0, totalW=175, minFragile=175, C=0, itemIndexList=[12, 14, 16, 17, 20, 25])
+Bin(obj=0, totalW=216, minFragile=216, C=0, itemIndexList=[19, 21, 22, 28, 47])
+Bin(obj=0, totalW=246, minFragile=247, C=0, itemIndexList=[23, 26, 29, 33])
+Bin(obj=0, totalW=246, minFragile=248, C=0, itemIndexList=[24, 27, 31, 32, 37])
+Bin(obj=0, totalW=259, minFragile=259, C=0, itemIndexList=[30, 34, 35, 38, 62, 79])
+Bin(obj=0, totalW=291, minFragile=291, C=0, itemIndexList=[39, 40, 41, 42, 45, 71, 92, 99])
+Bin(obj=0, totalW=311, minFragile=314, C=0, itemIndexList=[43, 44, 46, 48])
+Bin(obj=0, totalW=321, minFragile=323, C=0, itemIndexList=[49, 51, 52, 53, 58])
+Bin(obj=0, totalW=342, minFragile=342, C=0, itemIndexList=[54, 55, 60, 61, 63, 64])
+Bin(obj=0, totalW=347, minFragile=347, C=0, itemIndexList=[56, 57, 59, 65, 69])
+Bin(obj=0, totalW=371, minFragile=371, C=0, itemIndexList=[66, 67, 68, 70, 75, 76, 78])
+Bin(obj=0, totalW=396, minFragile=396, C=0, itemIndexList=[72, 73, 74, 80, 82, 85])
+Bin(obj=0, totalW=404, minFragile=404, C=0, itemIndexList=[77, 81, 83, 84, 86, 88, 89])
+Bin(obj=0, totalW=446, minFragile=448, C=0, itemIndexList=[87, 90, 91, 93, 95, 97])
+Bin(obj=0, totalW=133, minFragile=467, C=0, itemIndexList=[94, 96, 98])
+BpSolution{isOpt=true, gap=0.0, LB0=18, LB=18, UB0=18, UB=18, rootColCnt=0, totalColCnt=0, exploredNodeCnt=0, rmpCnt=0, pricingCnt=0, lb0Time=5, ub0Time=11, rmpTime=0, pricingTime=0, totalTime=17}

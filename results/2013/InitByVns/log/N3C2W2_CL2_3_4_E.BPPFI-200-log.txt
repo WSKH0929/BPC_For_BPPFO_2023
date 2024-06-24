@@ -1,0 +1,53 @@
+====================================== 2024-05-21 11:55:03 N3C2W2_CL2_3_4_E.BPPFI-200 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 42 , time cost: 6 ms
+XFitUpperBoundSolver: 43
+KnapsackBasedUpperBoundSolver: 43
+CliqueBasedUpperBoundSolver: 43
+MergingUpperBoundSolver: 54
+UB0: 43 , time cost: 150001 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=71, minFragile=83, C=0, itemIndexList=[0, 1, 4])
+Bin(obj=0, totalW=113, minFragile=121, C=0, itemIndexList=[2, 3, 6])
+Bin(obj=0, totalW=130, minFragile=140, C=0, itemIndexList=[5, 7, 8, 9])
+Bin(obj=0, totalW=149, minFragile=154, C=0, itemIndexList=[10, 11, 12, 13])
+Bin(obj=0, totalW=164, minFragile=167, C=0, itemIndexList=[14, 15, 16, 18])
+Bin(obj=0, totalW=158, minFragile=169, C=0, itemIndexList=[17, 19, 20])
+Bin(obj=0, totalW=170, minFragile=176, C=0, itemIndexList=[21, 22, 23, 24])
+Bin(obj=0, totalW=184, minFragile=185, C=0, itemIndexList=[25, 26, 27, 28, 31])
+Bin(obj=0, totalW=199, minFragile=203, C=0, itemIndexList=[29, 30, 32, 38])
+Bin(obj=0, totalW=207, minFragile=210, C=0, itemIndexList=[33, 34, 35, 40])
+Bin(obj=0, totalW=207, minFragile=219, C=0, itemIndexList=[36, 37, 39, 42])
+Bin(obj=0, totalW=233, minFragile=237, C=0, itemIndexList=[41, 43, 44, 46])
+Bin(obj=0, totalW=236, minFragile=243, C=0, itemIndexList=[45, 47, 48, 50, 52])
+Bin(obj=0, totalW=235, minFragile=251, C=0, itemIndexList=[49, 51, 53, 54])
+Bin(obj=0, totalW=269, minFragile=273, C=0, itemIndexList=[55, 56, 57, 84])
+Bin(obj=0, totalW=277, minFragile=278, C=0, itemIndexList=[58, 59, 60, 61, 63, 93])
+Bin(obj=0, totalW=288, minFragile=293, C=0, itemIndexList=[62, 64, 65, 67])
+Bin(obj=0, totalW=296, minFragile=303, C=0, itemIndexList=[66, 68, 69, 92])
+Bin(obj=0, totalW=300, minFragile=304, C=0, itemIndexList=[70, 71, 72, 73, 94])
+Bin(obj=0, totalW=303, minFragile=309, C=0, itemIndexList=[74, 75, 76, 117])
+Bin(obj=0, totalW=313, minFragile=315, C=0, itemIndexList=[77, 78, 79, 80, 100])
+Bin(obj=0, totalW=321, minFragile=323, C=0, itemIndexList=[81, 82, 83, 85, 115])
+Bin(obj=0, totalW=327, minFragile=328, C=0, itemIndexList=[86, 87, 88, 98, 140])
+Bin(obj=0, totalW=328, minFragile=334, C=0, itemIndexList=[89, 90, 91, 101])
+Bin(obj=0, totalW=339, minFragile=342, C=0, itemIndexList=[95, 96, 97, 114])
+Bin(obj=0, totalW=347, minFragile=347, C=0, itemIndexList=[99, 102, 103, 120, 146])
+Bin(obj=0, totalW=347, minFragile=358, C=0, itemIndexList=[104, 105, 106, 107])
+Bin(obj=0, totalW=358, minFragile=364, C=0, itemIndexList=[108, 109, 110, 121, 136])
+Bin(obj=0, totalW=359, minFragile=366, C=0, itemIndexList=[111, 112, 113, 123])
+Bin(obj=0, totalW=363, minFragile=375, C=0, itemIndexList=[116, 118, 119, 124, 154])
+Bin(obj=0, totalW=381, minFragile=381, C=0, itemIndexList=[122, 125, 126, 127, 139])
+Bin(obj=0, totalW=385, minFragile=385, C=0, itemIndexList=[128, 129, 130, 131, 158])
+Bin(obj=0, totalW=383, minFragile=389, C=0, itemIndexList=[132, 133, 134, 135, 141])
+Bin(obj=0, totalW=381, minFragile=393, C=0, itemIndexList=[137, 138, 142, 143, 147])
+Bin(obj=0, totalW=391, minFragile=404, C=0, itemIndexList=[144, 145, 148, 149, 151])
+Bin(obj=0, totalW=408, minFragile=412, C=0, itemIndexList=[150, 152, 153, 155, 156, 169])
+Bin(obj=0, totalW=402, minFragile=424, C=0, itemIndexList=[157, 159, 160, 161, 162, 166])
+Bin(obj=0, totalW=421, minFragile=428, C=0, itemIndexList=[163, 164, 165, 167, 170, 171])
+Bin(obj=0, totalW=419, minFragile=436, C=0, itemIndexList=[168, 172, 173, 174, 175, 176, 177, 187])
+Bin(obj=0, totalW=432, minFragile=446, C=0, itemIndexList=[178, 179, 180, 181, 182, 196])
+Bin(obj=0, totalW=452, minFragile=454, C=0, itemIndexList=[183, 184, 185, 186, 188, 199])
+Bin(obj=0, totalW=451, minFragile=461, C=0, itemIndexList=[189, 190, 191, 192, 193])
+Bin(obj=0, totalW=370, minFragile=474, C=0, itemIndexList=[194, 195, 197, 198])
+BpSolution{isOpt=false, gap=0.023255813953488372, LB0=42, LB=42, UB0=43, UB=43, rootColCnt=0, totalColCnt=3279249, exploredNodeCnt=4683, rmpCnt=2670396, pricingCnt=2670396, lb0Time=6, ub0Time=150001, rmpTime=2087107, pricingTime=1289411, totalTime=3600414}

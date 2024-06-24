@@ -1,0 +1,24 @@
+====================================== 2024-05-09 03:06:57 N2C2W2_CL1_1_5_D.BPPFI-100 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 18 , time cost: 5 ms
+UB0: 18 , time cost: 10 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=199, minFragile=202, C=0, itemIndexList=[0, 2, 4, 5])
+Bin(obj=0, totalW=204, minFragile=204, C=0, itemIndexList=[1, 3, 8, 13])
+Bin(obj=0, totalW=219, minFragile=220, C=0, itemIndexList=[6, 7, 11, 12])
+Bin(obj=0, totalW=236, minFragile=237, C=0, itemIndexList=[9, 10, 15, 32])
+Bin(obj=0, totalW=243, minFragile=243, C=0, itemIndexList=[14, 18, 19, 20])
+Bin(obj=0, totalW=249, minFragile=250, C=0, itemIndexList=[16, 17, 21, 22, 29])
+Bin(obj=0, totalW=272, minFragile=273, C=0, itemIndexList=[23, 24, 26, 28])
+Bin(obj=0, totalW=280, minFragile=281, C=0, itemIndexList=[25, 31, 33])
+Bin(obj=0, totalW=282, minFragile=284, C=0, itemIndexList=[27, 30, 34, 38, 39])
+Bin(obj=0, totalW=315, minFragile=315, C=0, itemIndexList=[35, 36, 37, 40, 45, 52])
+Bin(obj=0, totalW=349, minFragile=349, C=0, itemIndexList=[41, 42, 43, 46, 48])
+Bin(obj=0, totalW=355, minFragile=355, C=0, itemIndexList=[44, 47, 49, 50, 51, 66, 73])
+Bin(obj=0, totalW=388, minFragile=391, C=0, itemIndexList=[53, 54, 55, 56, 57, 58])
+Bin(obj=0, totalW=417, minFragile=417, C=0, itemIndexList=[59, 60, 61, 62, 64, 71])
+Bin(obj=0, totalW=450, minFragile=450, C=0, itemIndexList=[63, 65, 67, 68, 69, 74, 75, 79])
+Bin(obj=0, totalW=476, minFragile=476, C=0, itemIndexList=[70, 72, 76, 77, 78, 80, 82, 84, 90])
+Bin(obj=0, totalW=529, minFragile=529, C=0, itemIndexList=[81, 83, 85, 86, 87, 88, 91, 93, 97, 99])
+Bin(obj=0, totalW=435, minFragile=560, C=0, itemIndexList=[89, 92, 94, 95, 96, 98])
+BpSolution{isOpt=true, gap=0.0, LB0=18, LB=18, UB0=18, UB=18, rootColCnt=0, totalColCnt=0, exploredNodeCnt=0, rmpCnt=0, pricingCnt=0, lb0Time=5, ub0Time=10, rmpTime=0, pricingTime=0, totalTime=16}

@@ -1,0 +1,25 @@
+====================================== 2024-05-10 06:17:09 N2C3W4_CL2_3_4_D.BPPFI-100 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 19 , time cost: 6 ms
+UB0: 20 , time cost: 10 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=127, minFragile=142, C=0, itemIndexList=[0, 1, 2])
+Bin(obj=0, totalW=158, minFragile=162, C=0, itemIndexList=[3, 4, 5, 9])
+Bin(obj=0, totalW=168, minFragile=192, C=0, itemIndexList=[6, 7, 8])
+Bin(obj=0, totalW=226, minFragile=238, C=0, itemIndexList=[10, 11, 12, 13])
+Bin(obj=0, totalW=252, minFragile=265, C=0, itemIndexList=[14, 15, 16, 17])
+Bin(obj=0, totalW=257, minFragile=286, C=0, itemIndexList=[18, 19, 20, 21])
+Bin(obj=0, totalW=296, minFragile=299, C=0, itemIndexList=[22, 23, 24, 25, 27])
+Bin(obj=0, totalW=287, minFragile=309, C=0, itemIndexList=[26, 28, 29, 30])
+Bin(obj=0, totalW=326, minFragile=332, C=0, itemIndexList=[31, 32, 33, 34, 36])
+Bin(obj=0, totalW=325, minFragile=349, C=0, itemIndexList=[35, 37, 38, 39, 40])
+Bin(obj=0, totalW=353, minFragile=368, C=0, itemIndexList=[41, 42, 43, 44, 45])
+Bin(obj=0, totalW=359, minFragile=381, C=0, itemIndexList=[46, 47, 48, 49, 50])
+Bin(obj=0, totalW=380, minFragile=404, C=0, itemIndexList=[51, 52, 53, 54])
+Bin(obj=0, totalW=413, minFragile=417, C=0, itemIndexList=[55, 56, 57, 58, 59, 60, 63])
+Bin(obj=0, totalW=447, minFragile=449, C=0, itemIndexList=[61, 62, 64, 65, 66, 73, 74])
+Bin(obj=0, totalW=467, minFragile=467, C=0, itemIndexList=[67, 68, 69, 70, 71, 72])
+Bin(obj=0, totalW=503, minFragile=504, C=0, itemIndexList=[75, 76, 77, 78, 79, 80, 81, 83, 93])
+Bin(obj=0, totalW=522, minFragile=529, C=0, itemIndexList=[82, 84, 85, 86, 87, 88, 96])
+Bin(obj=0, totalW=568, minFragile=570, C=0, itemIndexList=[89, 90, 91, 92, 94, 95, 97, 98, 99])
+BpSolution{isOpt=true, gap=0.0, LB0=19, LB=19, UB0=20, UB=19, rootColCnt=0, totalColCnt=29550, exploredNodeCnt=215, rmpCnt=22683, pricingCnt=22683, lb0Time=6, ub0Time=10, rmpTime=5348, pricingTime=5728, totalTime=11880}

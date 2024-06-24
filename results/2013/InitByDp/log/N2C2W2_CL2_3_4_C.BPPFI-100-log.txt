@@ -1,0 +1,27 @@
+====================================== 2024-05-09 07:00:59 N2C2W2_CL2_3_4_C.BPPFI-100 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 20 , time cost: 7 ms
+UB0: 21 , time cost: 12 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=113, minFragile=114, C=0, itemIndexList=[0, 2, 3])
+Bin(obj=0, totalW=128, minFragile=128, C=0, itemIndexList=[1, 5, 8])
+Bin(obj=0, totalW=153, minFragile=154, C=0, itemIndexList=[4, 6, 7, 10])
+Bin(obj=0, totalW=181, minFragile=184, C=0, itemIndexList=[9, 11, 16, 17])
+Bin(obj=0, totalW=212, minFragile=219, C=0, itemIndexList=[12, 13, 14, 15, 19])
+Bin(obj=0, totalW=249, minFragile=249, C=0, itemIndexList=[18, 20, 23, 26])
+Bin(obj=0, totalW=264, minFragile=266, C=0, itemIndexList=[21, 22, 24, 27])
+Bin(obj=0, totalW=271, minFragile=271, C=0, itemIndexList=[25, 28, 30, 31])
+Bin(obj=0, totalW=278, minFragile=279, C=0, itemIndexList=[29, 32, 34, 36, 52])
+Bin(obj=0, totalW=294, minFragile=294, C=0, itemIndexList=[33, 35, 38, 39, 45])
+Bin(obj=0, totalW=306, minFragile=307, C=0, itemIndexList=[37, 40, 43, 44])
+Bin(obj=0, totalW=323, minFragile=324, C=0, itemIndexList=[41, 47, 48, 50, 53])
+Bin(obj=0, totalW=325, minFragile=326, C=0, itemIndexList=[42, 46, 49, 51, 80])
+Bin(obj=0, totalW=349, minFragile=349, C=0, itemIndexList=[54, 56, 57, 60, 64])
+Bin(obj=0, totalW=356, minFragile=356, C=0, itemIndexList=[55, 58, 59, 61, 65, 73])
+Bin(obj=0, totalW=369, minFragile=369, C=0, itemIndexList=[62, 63, 66, 68, 71, 92])
+Bin(obj=0, totalW=380, minFragile=382, C=0, itemIndexList=[67, 70, 72, 74, 77])
+Bin(obj=0, totalW=391, minFragile=392, C=0, itemIndexList=[69, 75, 76, 81, 82])
+Bin(obj=0, totalW=413, minFragile=415, C=0, itemIndexList=[78, 79, 83, 84, 85, 86, 90])
+Bin(obj=0, totalW=451, minFragile=451, C=0, itemIndexList=[87, 88, 89, 91, 93, 94])
+Bin(obj=0, totalW=271, minFragile=469, C=0, itemIndexList=[95, 96, 97, 98, 99])
+BpSolution{isOpt=true, gap=0.0, LB0=20, LB=21, UB0=21, UB=21, rootColCnt=0, totalColCnt=487, exploredNodeCnt=1, rmpCnt=388, pricingCnt=388, lb0Time=7, ub0Time=12, rmpTime=177, pricingTime=211, totalTime=517}

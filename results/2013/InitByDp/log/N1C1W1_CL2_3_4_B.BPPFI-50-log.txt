@@ -1,0 +1,17 @@
+====================================== 2024-05-07 09:27:36 N1C1W1_CL2_3_4_B.BPPFI-50 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 11 , time cost: 6 ms
+UB0: 12 , time cost: 4 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=44, minFragile=44, C=0, itemIndexList=[0, 1, 2])
+Bin(obj=0, totalW=126, minFragile=133, C=0, itemIndexList=[3, 4, 5, 7])
+Bin(obj=0, totalW=186, minFragile=188, C=0, itemIndexList=[6, 8, 9, 11])
+Bin(obj=0, totalW=198, minFragile=201, C=0, itemIndexList=[10, 12, 13, 14, 15, 16])
+Bin(obj=0, totalW=269, minFragile=270, C=0, itemIndexList=[17, 18, 19, 20])
+Bin(obj=0, totalW=286, minFragile=296, C=0, itemIndexList=[21, 22, 23, 24])
+Bin(obj=0, totalW=303, minFragile=311, C=0, itemIndexList=[25, 26, 27, 28, 31])
+Bin(obj=0, totalW=326, minFragile=336, C=0, itemIndexList=[29, 30, 32, 33, 34, 41])
+Bin(obj=0, totalW=349, minFragile=350, C=0, itemIndexList=[35, 36, 37, 38])
+Bin(obj=0, totalW=353, minFragile=359, C=0, itemIndexList=[39, 40, 42, 43, 45, 46])
+Bin(obj=0, totalW=342, minFragile=380, C=0, itemIndexList=[44, 47, 48, 49])
+BpSolution{isOpt=true, gap=0.0, LB0=11, LB=11, UB0=12, UB=11, rootColCnt=0, totalColCnt=3489, exploredNodeCnt=50, rmpCnt=2305, pricingCnt=2305, lb0Time=6, ub0Time=4, rmpTime=394, pricingTime=309, totalTime=916}

@@ -1,0 +1,19 @@
+====================================== 2024-05-14 12:30:29 N1C1W4_CL2_3_4_C.BPPFI-50 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 12 , time cost: 5 ms
+XFitUpperBoundSolver: 12
+UB0: 12 , time cost: 3 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=126, minFragile=140, C=0, itemIndexList=[0, 1, 2])
+Bin(obj=0, totalW=208, minFragile=211, C=0, itemIndexList=[3, 4, 5, 7])
+Bin(obj=0, totalW=210, minFragile=219, C=0, itemIndexList=[6, 8, 9, 10])
+Bin(obj=0, totalW=221, minFragile=231, C=0, itemIndexList=[11, 12, 13, 14])
+Bin(obj=0, totalW=232, minFragile=253, C=0, itemIndexList=[15, 16, 17, 18])
+Bin(obj=0, totalW=248, minFragile=277, C=0, itemIndexList=[19, 20, 21])
+Bin(obj=0, totalW=253, minFragile=287, C=0, itemIndexList=[22, 23, 24, 25])
+Bin(obj=0, totalW=284, minFragile=305, C=0, itemIndexList=[26, 27, 28, 30])
+Bin(obj=0, totalW=284, minFragile=318, C=0, itemIndexList=[29, 31, 32, 33])
+Bin(obj=0, totalW=309, minFragile=339, C=0, itemIndexList=[34, 35, 36, 37, 38])
+Bin(obj=0, totalW=340, minFragile=353, C=0, itemIndexList=[39, 40, 41, 42, 43, 48])
+Bin(obj=0, totalW=351, minFragile=382, C=0, itemIndexList=[44, 45, 46, 47, 49])
+BpSolution{isOpt=true, gap=0.0, LB0=12, LB=12, UB0=12, UB=12, rootColCnt=0, totalColCnt=0, exploredNodeCnt=0, rmpCnt=0, pricingCnt=0, lb0Time=5, ub0Time=3, rmpTime=0, pricingTime=0, totalTime=9}

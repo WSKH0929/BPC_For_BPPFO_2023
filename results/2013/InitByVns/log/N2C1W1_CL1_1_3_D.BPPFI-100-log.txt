@@ -1,0 +1,31 @@
+====================================== 2024-05-14 04:29:54 N2C1W1_CL1_1_3_D.BPPFI-100 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 24 , time cost: 6 ms
+XFitUpperBoundSolver: 24
+UB0: 24 , time cost: 5 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=141, minFragile=141, C=0, itemIndexList=[0, 3, 7, 21, 56])
+Bin(obj=0, totalW=141, minFragile=141, C=0, itemIndexList=[1, 2, 6, 26])
+Bin(obj=0, totalW=145, minFragile=145, C=0, itemIndexList=[4, 5, 8, 13, 36, 51])
+Bin(obj=0, totalW=145, minFragile=154, C=0, itemIndexList=[9, 10, 55])
+Bin(obj=0, totalW=156, minFragile=156, C=0, itemIndexList=[11, 17, 59, 74])
+Bin(obj=0, totalW=157, minFragile=157, C=0, itemIndexList=[12, 16, 33, 89])
+Bin(obj=0, totalW=160, minFragile=160, C=0, itemIndexList=[14, 15, 25])
+Bin(obj=0, totalW=164, minFragile=165, C=0, itemIndexList=[18, 19, 20, 32])
+Bin(obj=0, totalW=170, minFragile=170, C=0, itemIndexList=[22, 23, 39])
+Bin(obj=0, totalW=172, minFragile=172, C=0, itemIndexList=[24, 27, 30, 43])
+Bin(obj=0, totalW=175, minFragile=178, C=0, itemIndexList=[28, 29, 41])
+Bin(obj=0, totalW=179, minFragile=186, C=0, itemIndexList=[31, 34, 49])
+Bin(obj=0, totalW=193, minFragile=198, C=0, itemIndexList=[35, 37, 38, 44])
+Bin(obj=0, totalW=207, minFragile=208, C=0, itemIndexList=[40, 42, 45, 52])
+Bin(obj=0, totalW=212, minFragile=218, C=0, itemIndexList=[46, 47, 61])
+Bin(obj=0, totalW=219, minFragile=220, C=0, itemIndexList=[48, 50, 53, 54])
+Bin(obj=0, totalW=236, minFragile=241, C=0, itemIndexList=[57, 58, 62, 64, 66])
+Bin(obj=0, totalW=244, minFragile=244, C=0, itemIndexList=[60, 63, 65, 70])
+Bin(obj=0, totalW=256, minFragile=257, C=0, itemIndexList=[67, 68, 69, 71, 72])
+Bin(obj=0, totalW=267, minFragile=267, C=0, itemIndexList=[73, 75, 76, 77, 78, 79, 87])
+Bin(obj=0, totalW=267, minFragile=273, C=0, itemIndexList=[80, 81, 82, 91])
+Bin(obj=0, totalW=275, minFragile=279, C=0, itemIndexList=[83, 84, 85, 86, 90])
+Bin(obj=0, totalW=253, minFragile=283, C=0, itemIndexList=[88, 92, 93, 94, 95])
+Bin(obj=0, totalW=276, minFragile=296, C=0, itemIndexList=[96, 97, 98, 99])
+BpSolution{isOpt=true, gap=0.0, LB0=24, LB=24, UB0=24, UB=24, rootColCnt=0, totalColCnt=0, exploredNodeCnt=0, rmpCnt=0, pricingCnt=0, lb0Time=6, ub0Time=5, rmpTime=0, pricingTime=0, totalTime=11}

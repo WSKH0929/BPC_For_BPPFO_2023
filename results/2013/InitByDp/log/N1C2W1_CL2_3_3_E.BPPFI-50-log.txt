@@ -1,0 +1,15 @@
+====================================== 2024-05-07 09:31:50 N1C2W1_CL2_3_3_E.BPPFI-50 =====================================
+----------------------- Start the branch-and-price algorithm -----------------------
+LB0: 9 , time cost: 5 ms
+UB0: 9 , time cost: 4 ms
+----------------------- End the branch-and-price algorithm -----------------------
+Bin(obj=0, totalW=24, minFragile=24, C=0, itemIndexList=[0, 1, 2])
+Bin(obj=0, totalW=118, minFragile=118, C=0, itemIndexList=[3, 4, 5, 6, 7, 8, 10, 11])
+Bin(obj=0, totalW=199, minFragile=199, C=0, itemIndexList=[9, 12, 14, 21, 30, 34])
+Bin(obj=0, totalW=226, minFragile=228, C=0, itemIndexList=[13, 15, 16, 17, 18, 19])
+Bin(obj=0, totalW=275, minFragile=275, C=0, itemIndexList=[20, 22, 24, 26, 31])
+Bin(obj=0, totalW=282, minFragile=282, C=0, itemIndexList=[23, 25, 28, 40, 43])
+Bin(obj=0, totalW=287, minFragile=288, C=0, itemIndexList=[27, 29, 32, 33, 37, 39, 42])
+Bin(obj=0, totalW=323, minFragile=325, C=0, itemIndexList=[35, 36, 38, 41, 44, 47])
+Bin(obj=0, totalW=262, minFragile=343, C=0, itemIndexList=[45, 46, 48, 49])
+BpSolution{isOpt=true, gap=0.0, LB0=9, LB=9, UB0=9, UB=9, rootColCnt=0, totalColCnt=0, exploredNodeCnt=0, rmpCnt=0, pricingCnt=0, lb0Time=5, ub0Time=4, rmpTime=0, pricingTime=0, totalTime=10}
