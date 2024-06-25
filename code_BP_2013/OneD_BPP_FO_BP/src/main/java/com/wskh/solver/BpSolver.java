@@ -3,6 +3,7 @@ package com.wskh.solver;
 
 import com.wskh.classes.*;
 import com.wskh.solver.lower_bound.LowerBoundSolver;
+import com.wskh.solver.upper_bound.DpBasedUpperBoundSolver;
 import com.wskh.solver.upper_bound.VnsUpperBoundSolver;
 import com.wskh.utils.TimeUtil;
 
@@ -160,8 +161,8 @@ public class BpSolver {
 
         // 计算初始上界
         startTime = System.currentTimeMillis();
-        bestBpSolution.binList = new VnsUpperBoundSolver(instance, bestBpSolution.LB, Parameter.ub0TimeLimit).solve();
-//        bestBpSolution.binList = DpBasedUpperBoundSolver.solve(instance);
+//        bestBpSolution.binList = new VnsUpperBoundSolver(instance, bestBpSolution.LB, Parameter.ub0TimeLimit).solve();
+        bestBpSolution.binList = DpBasedUpperBoundSolver.solve(instance);
         bestBpSolution.UB0 = bestBpSolution.binList.size();
         bestBpSolution.UB = bestBpSolution.UB0;
         bestBpSolution.ub0Time = System.currentTimeMillis() - startTime;
