@@ -1,6 +1,6 @@
 # Instances and results of the BPPFO experiments in Wang et al. (2023)
 
-### Full reference: Sunkanghong Wang, Shaowen Yao, Hao Zhang, Qiang Liu and Lijun Wei. (2023). A Branch-and-Price-and-Cut Algorithm for the Bin Packing Problem with Fragile Objects. Under revision.
+### Full reference: Sunkanghong Wang, Shaowen Yao, Hao Zhang, Qiang Liu and Lijun Wei. (2023). An arc-flow formulation and a branch-and-price-and-cut algorithm for the bin packing problem with fragile objects. Under revision.
 
 This repository hosts the files backing up the data and experimental results described in our paper A Branch-and-Price-and-Cut Algorithm for the Bin Packing Problem with Fragile Objects referenced above. The paper is now under revision. A link to it will be provided as soon as possible.
 
@@ -8,12 +8,12 @@ If you have any questions, please feel free to reach out to **[villagerwei@gdut.
 
 ## code_BP_2013
 
-
+In the **`code_BP_2013`** folder, you will find the source code of the branch-and-price algorithm we implemented from [**Martínez et al. (2013)**](https://doi.org/10.1016/j.disopt.2013.06.001).
 
 ## instances
 ### Existing_Instances
 
-The BPPFI files that describe the instances are found in the **`instances/Existing_Instances`** folder. The instances in this folder are classic benchmark instances created by [**Clautiaux et al (2014)**](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
+The BPPFI files that describe the instances are found in the **`instances/Existing_Instances`** folder. The instances in this folder are classic benchmark instances created by [**Clautiaux et al. (2014)**](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
 
 ### Random_Instances
 
@@ -34,7 +34,7 @@ Based on the above rules, we generate $10$ instances for each tuple, resulting i
 
 ### 2013_Results
 
-In the **`results/2013_Results`** folder, you will find:
+In the **`results/2013_Results`** folder, you will find the results of BP(2013):
 
 - The folder named **``log``** contains the log information output during algorithm operation for all instances.
 - The folder named **``solutions``** contains detailed packing patterns for all instances. 
@@ -42,7 +42,7 @@ In the **`results/2013_Results`** folder, you will find:
 
 ### Our_Results
 
-The results CSV and OUT files are found inside the **`results/Our_Results`** folder. In the folder, you will find:
+The results CSV and OUT files are found inside the **`results/Our_Results`** folder. In the folder, you will find the results of our BPC:
 
 - The folder named **``out``** contains detailed packing patterns for all instances.
 - The CSV file named **``results(19-011)``** contains calculated statistics for all instances. The meaning of each column is as follows:
