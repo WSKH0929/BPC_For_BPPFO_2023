@@ -1,8 +1,8 @@
-# Instances and results of the BPPFO experiments in Wang et al. (2023)
+# Instances and results of the BPPFO experiments in Wang et al. (2025)
 
-### Full reference: Sunkanghong Wang, Shaowen Yao, Hao Zhang, Qiang Liu and Lijun Wei. (2023). An arc-flow formulation and a branch-and-price-and-cut algorithm for the bin packing problem with fragile objects. Under revision.
+### Full reference: Sunkanghong Wang, Shaowen Yao, Hao Zhang, Qiang Liu and Lijun Wei. (2025). Arc-flow formulation and branch-and-price-and-cut algorithm for the bin-packing problem with fragile objects. Computers & Operations Research, 173, 106878.
 
-This repository hosts the files backing up the data and experimental results described in our paper A Branch-and-Price-and-Cut Algorithm for the Bin Packing Problem with Fragile Objects referenced above. The paper is now under revision. A link to it will be provided as soon as possible.
+This repository hosts the files backing up the data and experimental results described in our paper (https://doi.org/10.1016/j.cor.2024.106878) referenced above.
 
 If you have any questions, please feel free to reach out to **[villagerwei@gdut.edu.cn](mailto:villagerwei@gdut.edu.cn)** or **[wskh0929@gmail.com](mailto:wskh0929@gmail.com)**
 
