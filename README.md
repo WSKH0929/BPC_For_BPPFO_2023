@@ -6,11 +6,31 @@ This repository hosts the files backing up the data and experimental results des
 
 If you have any questions, please feel free to reach out to **[villagerwei@gdut.edu.cn](mailto:villagerwei@gdut.edu.cn)** or **[wskh0929@gmail.com](mailto:wskh0929@gmail.com)**
 
-## code_BP_2013
+## Cite
+
+To cite the contents of this repository, please cite both the paper and this repo.
+
+Below is the BibTex of the paper:
+
+```
+@article{WANG2025106878,
+title = {Arc-flow formulation and branch-and-price-and-cut algorithm for the bin-packing problem with fragile objects},
+journal = {Computers \& Operations Research},
+volume = {173},
+pages = {106878},
+year = {2025},
+issn = {0305-0548},
+doi = {https://doi.org/10.1016/j.cor.2024.106878},
+url = {https://www.sciencedirect.com/science/article/pii/S0305054824003502},
+author = {Sunkanghong Wang and Shaowen Yao and Hao Zhang and Qiang Liu and Lijun Wei}
+}
+```
+
+## Code
 
 In the **`code_BP_2013`** folder, you will find the source code of the branch-and-price algorithm we implemented from [**Martínez et al. (2013)**](https://doi.org/10.1016/j.disopt.2013.06.001).
 
-## instances
+## Instances
 ### Existing_Instances
 
 The BPPFI files that describe the instances are found in the **`instances/Existing_Instances`** folder. The instances in this folder are classic benchmark instances created by [**Clautiaux et al. (2014)**](https://doi.org/10.1016/j.dam.2012.04.010). This benchmark set consists of 675 instances containing 50, 100 and 200 items, which are classified into 5 classes based on how they are created in terms of weights and fragilities.
@@ -30,7 +50,7 @@ We ensure that $C=c$ and $|N|=n$ for each randomly generated instance. Given a t
 
 Based on the above rules, we generate $10$ instances for each tuple, resulting in $180$ total instances.
 
-## results
+## Results
 
 ### 2013_Results
 
